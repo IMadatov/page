@@ -1,0 +1,214 @@
+body {
+
+    height: 650px;
+    width: 650px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    background:#b2b2b2;
+
+    
+}
+
+.mainPage{
+    width: 100%;
+    height: 100%;
+    
+    position: relative;
+    background-color: white;
+
+
+}
+
+
+.rigthLine{
+    box-sizing: border-box;
+    position: absolute;
+    width: 91px;
+    height: 650px;
+    left: 558px;
+    top: 0px;
+
+    background-color: #5e39ca;
+    border: 1px solid #FFFF;
+    box-shadow: 0px 4px 4px rgba(130, 67, 232, 0.77);
+}
+
+.textName{
+    box-sizing: border-box;
+    position: absolute;
+    width: 415px;
+    height: 114px;
+
+    left: 36px;
+    top: 43px;
+
+    background: #fcf7f7;;
+    border: 1px solid #543dde;
+    box-shadow: 0px 4px 4px rgba(7, 7, 7, 0.25);
+    border-radius: 3px;
+
+    
+}
+
+.Name{
+
+    box-sizing: border-box;
+
+    position: absolute;
+
+    width: 400px;
+    height: 103px;
+    left: 7px;
+    top: 6px;
+    font-family: 'Inria Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #543dde;
+}
+
+.logoTuit{
+    position: absolute;
+    width: 113px;
+    height: 116px;
+    left: 472px;
+    top: 41px;
+
+    border: 56px;
+}
+
+.aboutUs{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 54px;
+    top: 176px;
+
+    font-family: 'Italian';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px; 
+    line-height: 33px;
+
+    color: #543dde;
+}
+
+.heigthLine{
+    position: absolute;
+    width: 7px;
+    height: 168px;
+    left: 54px;
+    top:211px;
+
+    background: #85759e;
+    border-radius: 15px;
+}
+.textRamka{
+    
+    position: absolute;
+    width: 364px;
+    height: 168px;
+    left: 67px;
+    top: 211px;
+
+    background: rgba(227, 225, 225, 0.27);
+}
+.infoText{
+    position: absolute;
+    width: 341px;
+    height: 153px;
+    left: 7px;
+    top: 8px;
+
+    font-family:'Istok Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+
+    color: black;
+}
+
+.tuitPhoto{
+
+    position: absolute;
+    width: 490px;
+    height: 205px;
+    left: 0px;
+    top: 0px;
+
+    border-radius: 12px;
+}
+
+.ramkaPhoto{
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    left: 58px;
+    top: 385px;
+    border-radius: 5px;
+}
+
+.share{
+    position: absolute;
+width: 40px;
+height: 200px;
+left: 26px;
+top: 386px;
+
+mix-blend-mode: normal;
+border: 1px solid #FFFFFF;
+border-radius: 6px
+}
+
+.web{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 20%;
+    top: 20%;
+    border-radius: 5px;
+}
+
+.telegramLink{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 20%;  
+    top: 40%;
+}
+
+.instagramLogo{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 20%;  
+    top: 60%;
+}
+
+.facebookLogo{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 20%;  
+    top: 80%;
+}
+
+.linkMe{
+    position: absolute;
+width: 161px;
+height: 17px;
+left: 33px;
+top: 608px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+
+color: #000000;
+}
